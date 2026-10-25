@@ -4,7 +4,12 @@ A C++ remake of **Hex Empire**, the 2007 Flash strategy game by META:SAUCE. Four
 
 The goal is to stay close to the original: the art, fonts and sounds were pulled from the original SWF, and the layout, animations and timings follow the Flash reference.
 
-<!-- Add a screenshot here, e.g. ![Gameplay](docs/screenshot.png) -->
+## Screenshots
+
+<img width="798" height="629" alt="image" src="https://github.com/user-attachments/assets/8dcd4a23-65ac-4d8a-9170-1d5aa17959ff" />
+<img width="796" height="626" alt="image" src="https://github.com/user-attachments/assets/c77e657e-c059-45ca-a52f-47c9e2c783ce" />
+<img width="799" height="627" alt="image" src="https://github.com/user-attachments/assets/601212e1-ed02-419c-92a0-70cc5b0da619" />
+<img width="797" height="627" alt="image" src="https://github.com/user-attachments/assets/450ccfc7-4eba-4f9c-924e-5bdcf173f96a" />
 
 ## Features
 
